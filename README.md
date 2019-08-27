@@ -1,2 +1,0 @@
-# FlutterCourse
-For Learning Flutter
